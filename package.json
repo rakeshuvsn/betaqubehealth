@@ -1,0 +1,23 @@
+{
+  "name": "healthapp",
+  "version": "1.0.0",
+  "description": "betaqube health",
+  "main": "app/app.module.js",
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshuvsn/betaqubehealth.git"
+  },
+  "keywords": [
+    "health",
+    "betaqube"
+  ],
+  "author": "venkata uppala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshuvsn/betaqubehealth/issues"
+  },
+  "homepage": "https://github.com/rakeshuvsn/betaqubehealth#readme"
+}
